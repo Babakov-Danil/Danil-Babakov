@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HOOIZIZ
+- 👋 Hi, I’m @Babakov-Danil
 
 - petProjects: https://github.com/Babakov-Danil/pet_projects
 
